@@ -1,6 +1,10 @@
-# Getting Started with Create React App
+# React Lab
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to the React Lab! This repository contains various experiments and projects using React and related libraries. Each experiment is designed to explore different aspects of React and its ecosystem.
+
+## Getting Started
+
+To get started with the React Lab, clone this repository and install the necessary dependencies.
 
 ## Available Scripts
 
