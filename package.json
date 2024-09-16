@@ -10,7 +10,6 @@
     "@types/node": "^16.18.108",
     "@types/react": "^18.3.6",
     "@types/react-dom": "^18.3.0",
-    "browser": "^0.2.6",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-scripts": "5.0.1",
@@ -28,20 +27,5 @@
       "react-app",
       "react-app/jest"
     ]
-  },
-  "browserslist": {
-    "production": [
-      ">0.2%",
-      "not dead",
-      "not op_mini all"
-    ],
-    "development": [
-      "last 1 chrome version",
-      "last 1 firefox version",
-      "last 1 safari version"
-    ]
-  },
-  "devDependencies": {
-    "@types/bowser": "^1.1.1"
   }
 }
