@@ -1,7 +1,7 @@
 import React from "react";
 import Bowser from "bowser";
 
-const BrowserDetector = () => {
+const BrowserDetector: React.FC = () => {
   const userAgent = window.navigator.userAgent;
   const browser = Bowser.getParser(userAgent);
   const os = browser.getOSName();

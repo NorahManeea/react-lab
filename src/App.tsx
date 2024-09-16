@@ -1,4 +1,4 @@
-import BrowserDetector from "./browserDetector/browserDetector";
+import BrowserDetector from "./browser/browserDetector";
 
 const App = () => {
   return (
