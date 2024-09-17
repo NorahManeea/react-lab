@@ -1,12 +1,12 @@
+import "./App.css";
 import BrowserDetector from "./browser/browserDetector";
 
-const App = () => {
+function App() {
   return (
-    <div>
-      <h1>Test</h1>
+    <>
       <BrowserDetector />
-    </div>
+    </>
   );
-};
+}
 
 export default App;
